@@ -1,3 +1,5 @@
+![Banner Image]([https://github.com/gkhan205/gkhan205/blob/master/image/Banner.png](https://i.imgur.com/KVojd8n.png))
+
 ### Hi there 👋
 
 I am **Alex** working as **WIP**.
