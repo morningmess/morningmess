@@ -1,4 +1,4 @@
-![Banner Image]([https://github.com/gkhan205/gkhan205/blob/master/image/Banner.png](https://i.imgur.com/KVojd8n.png))
+![Banner Image](https://github.com/morningmess/morningmess/blob/main/Mads%20smaller.png)
 
 ### Hi there 👋
 
