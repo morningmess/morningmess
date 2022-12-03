@@ -8,12 +8,16 @@ I am **Alex**, current working as a Barista while learning **Front-End Developme
 
 ## Working On..
 
-- [ ] 🔭 WIP
-- [ ] 🌱 WIP
+- [ ] 🔭 HTML & CSS Fundementals
+- [ ] 🌱 JS Fundementals
 - [ ] 👯 WIP
 - [ ] 🤔 WIP
 
 
+<!-- 
+
 [![Linkedin: Alex](https://img.shields.io/badge/-morningmess-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alex-carido-3b26a595/)](https://www.linkedin.com/in/alex-carido-3b26a595/)
 [![GitHub Ghazi](https://img.shields.io/github/followers/morningmess?label=follow&style=social)](https://github.com/morningmess)
 ![Twitter Follow](https://img.shields.io/twitter/follow/morningmess_?style=social)
+
+-->
