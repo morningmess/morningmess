@@ -6,12 +6,12 @@
 
 I am **Alex**, current working as a Barista while learning **Front-End Development** on my free time.
 
-## Working On..
+## ⌨️ Working On..
 
-- [ ] 🔭 HTML & CSS Fundementals
-- [ ] 🌱 JS Fundementals
-- [ ] 👯 WIP
-- [ ] 🤔 WIP
+- [ ] HTML & CSS Fundementals
+- [ ] JS Fundementals
+- [ ] WIP
+- [ ] WIP
 
 
 <!-- 
