@@ -1,8 +1,8 @@
 ![Banner Image](https://github.com/morningmess/morningmess/blob/main/Mads%20smaller.png)
 
-# Hi there ✌🏽
+## ✌🏽 About Me..
 
-I am **Alex** working as **WIP**.
+I am **Alex**, current working as a Barista while learning **Front-End Development** on my free time.
 
 ## Working On..
 
