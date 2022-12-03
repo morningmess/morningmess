@@ -1,4 +1,4 @@
-![Banner Image](https://github.com/morningmess/morningmess/blob/main/Mads%20smaller.png)
+<p align="center"><img src="https://github.com/morningmess/morningmess/blob/main/Mads%20smaller.png" width="600"></p>
 
 ## ✌🏽 About Me..
 
