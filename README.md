@@ -1,4 +1,4 @@
-<p align="center"><img src="https://i.imgur.com/UAF7Amc.png" width="500"></p>
+<p align="center"><img src="https://i.imgur.com/1ULWQzT.png" width="500"></p>
 
 ## ✌🏽 About Me..
 
