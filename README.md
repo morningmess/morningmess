@@ -1,4 +1,4 @@
-<p align="center"><img src="https://github.com/morningmess/morningmess/blob/main/Mads%20smaller.png" width="600"></p>
+<p align="center"><img src="https://i.imgur.com/UAF7Amc.png" width="500"></p>
 
 ## ✌🏽 About Me..
 
