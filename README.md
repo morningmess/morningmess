@@ -10,7 +10,7 @@ I am **Alex** and this is all a WIP.
 - [ ] JS Fundamentals
 - [ ] Python
 
-<p align="right"><a href="https://www.linkedin.com/in/alex-carido-3b26a595/" target="_blank"><img src="https://img.shields.io/badge/-morningmess-blue?style=flat-square&logo=Linkedin&logoColor=white"> <a href="https://github.com/morningmess" target="_blank"><img src="https://img.shields.io/github/followers/morningmess?label=follow&style=social"> <a href="https://twitter.com/sugarkanecode" target="_blank"><img src="https://img.shields.io/twitter/follow/sugarkanecode?style=social"></p>
+<p align="right"><a href="https://www.linkedin.com/in/alex-carido-3b26a595/" target="_blank"><img src="https://img.shields.io/badge/-morningmess-blue?style=flat-square&logo=Linkedin&logoColor=white"> <a href="https://twitter.com/sugarkanecode" target="_blank"><img src="https://img.shields.io/twitter/follow/sugarkanecode?style=social"></p>
 
 
 <!-- Old Socials
